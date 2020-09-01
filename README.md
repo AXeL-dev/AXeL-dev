@@ -4,8 +4,12 @@ A Full Stack Developer 🚀 from Morocco. I'm a problem solving enthusiast & cle
 
 Feel free to reach me at [contact.axel.dev@gmail.com](mailto:contact.axel.dev@gmail.com).
 
-<div align="center">
+<details>
+  <summary>:chart_with_upwards_trend: Stats</summary>
 
-[![AXeL's github stats](https://github-readme-stats.vercel.app/api?username=axel-dev&count_private=true&show_icons=true&hide_border=true)](https://github.com/AXeL-dev)
+  <div align="center">
 
-</div>
+  [![AXeL's github stats](https://github-readme-stats.vercel.app/api?username=axel-dev&count_private=true&show_icons=true&hide_border=true)](https://github.com/AXeL-dev)
+
+  </div>
+</details>
