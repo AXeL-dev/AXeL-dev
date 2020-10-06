@@ -14,7 +14,7 @@ I'm a Full Stack Developer from Morocco 🇲🇦, enthusiastic about solving pro
   <a href="https://www.php.net/" taget="_blank"><img src="https://devstickers.com/assets/img/pro/n72z.png" width="75" height="75" />
   <a href="https://www.python.org/" taget="_blank"><img src="https://devstickers.com/assets/img/pro/p3jo.png" width="75" height="75" />
   <a href="https://git-scm.com/" taget="_blank"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ytlCYKyP--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/22/git-sticker.png" width="75" height="75" /></a>
-  <a href="https://git-scm.com/" taget="_blank"><img src="https://devstickers.com/assets/img/pro/saxu.png" width="75" height="75" /></a>
+  <a href="https://code.visualstudio.com/" taget="_blank"><img src="https://devstickers.com/assets/img/pro/saxu.png" width="75" height="75" /></a>
 
 </details>
 
