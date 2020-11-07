@@ -5,7 +5,7 @@ I'm a Full Stack Developer from Morocco 🇲🇦, enthusiastic about solving pro
 <details open>
   <summary><b>I am currently working with</b> 👇</summary>
 
-  <br>
+  <br/>
 
   <a href="https://angular.io/" taget="_blank"><img src="https://i0.wp.com/stickykart.com/wp-content/uploads/2017/01/sticker900x900.png?resize=350%2C350&ssl=1" width="55" height="55" />
   <a href="https://firebase.google.com/" taget="_blank"><img src="https://firebaseopensource.com/logo-small.png" width="55" height="55" /></a>
@@ -22,8 +22,19 @@ I'm a Full Stack Developer from Morocco 🇲🇦, enthusiastic about solving pro
   <summary><b>Statistics</b> 📈</summary>
 
   <div align="center">
-
-  [![AXeL's github stats](https://github-readme-stats.vercel.app/api?username=axel-dev&count_private=true&show_icons=true&hide_border=true)](https://github.com/AXeL-dev)
+  
+  <a href="https://github.com/AXeL-dev">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=axel-dev&count_private=true&include_all_commits=true&show_icons=true&hide_border=true" alt="AXeL's github stats" />
+  </a>
+  
+  <a href="https://github.com/AXeL-dev">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=axel-dev&layout=compact&hide_border=true" alt="Top Langs" />
+  </a>
+  
+  <br/>
+  <br/>
+  
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=axel-dev)
 
   </div>
 </details>
