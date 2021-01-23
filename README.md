@@ -1,9 +1,9 @@
-### Hi there 👋,
+### Hi there 👋
 
 I'm a Full Stack Developer from Morocco 🇲🇦, enthusiastic about solving problems & writing clean code :rainbow: , with a constantly growing love for new technologies. Besides programming, I enjoy watching animes & playing games :video_game:.
 
 <details open>
-  <summary><b>I am currently working with</b> 👇</summary>
+  <summary><b>I'm currently working with</b> 👇</summary>
 
   <br/>
 
@@ -39,4 +39,4 @@ I'm a Full Stack Developer from Morocco 🇲🇦, enthusiastic about solving pro
   </div>
 </details>
 
-Feel free to reach me at [contact.axel.dev@gmail.com](mailto:contact.axel.dev@gmail.com).
+📫 Feel free to reach me on [contact.axel.dev@gmail.com](mailto:contact.axel.dev@gmail.com).
