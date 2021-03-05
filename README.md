@@ -1,20 +1,21 @@
 ### Hi there 👋
 
-I'm a Full Stack Developer from Morocco 🇲🇦, enthusiastic about solving problems & writing clean code :rainbow: , with a constantly growing love for new technologies. Besides programming, I enjoy watching animes & playing games :video_game:.
+I'm a Full Stack Developer from Morocco 🇲🇦, enthusiastic about solving problems & writing clean code :sparkles: , with a constantly growing love for new technologies. Besides programming, I enjoy watching animes & playing games :video_game:.
 
 <details open>
   <summary><b>I'm currently working with</b> 👇</summary>
 
   <br/>
 
-  <a href="https://angular.io/" taget="_blank"><img src="icons/angular.png" width="45" height="45" />
-  <a href="https://firebase.google.com/" taget="_blank"><img src="icons/firebase.png" width="45" height="45" /></a>
-  <a href="https://reactjs.org/" taget="_blank"><img src="icons/react.png" width="45" height="45" />
-  <a href="https://nodejs.org/en/" taget="_blank"><img src="icons/nodejs.png" width="45" height="45" />
-  <a href="https://www.php.net/" taget="_blank"><img src="icons/php.png" width="45" height="45" />
-  <a href="https://www.python.org/" taget="_blank"><img src="icons/python.png" width="45" height="45" />
-  <a href="https://git-scm.com/" taget="_blank"><img src="icons/git.png" width="45" height="45" /></a>
-  <a href="https://code.visualstudio.com/" taget="_blank"><img src="icons/vscode.png" width="45" height="45" /></a>
+  <a href="https://reactjs.org/" target="_blank" title="React"><img src="icons/react.png" alt="React" width="45" height="45" />
+  <a href="https://nodejs.org/en/" target="_blank" title="Node.js"><img src="icons/nodejs.png" alt="Node.js" width="45" height="45" />
+  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="icons/mongodb.png" alt="MongoDB" width="45" height="45" />
+  <a href="https://angular.io/" target="_blank" title="Angular"><img src="icons/angular.png" alt="Angular" width="45" height="45" />
+  <a href="https://firebase.google.com/" target="_blank" title="Firebase"><img src="icons/firebase.png" alt="Firebase" width="45" height="45" /></a>
+  <a href="https://www.php.net/" target="_blank" title="PHP"><img src="icons/php.png" alt="PHP" width="45" height="45" />
+  <a href="https://www.python.org/" target="_blank" title="Python"><img src="icons/python.png" alt="Python" width="45" height="45" />
+  <a href="https://git-scm.com/" target="_blank" title="Git"><img src="icons/git.png" alt="Git" width="45" height="45" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" title="VS Code"><img src="icons/vscode.png" alt="VS Code" width="45" height="45" /></a>
 
 </details>
 
