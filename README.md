@@ -7,15 +7,15 @@ I'm a Full Stack Developer from Morocco 🇲🇦, enthusiastic about solving pro
 
   <br/>
 
-  <a href="https://reactjs.org/" target="_blank" title="React"><img src="icons/react.png" alt="React" width="45" height="45" />
-  <a href="https://nodejs.org/en/" target="_blank" title="Node.js"><img src="icons/nodejs.png" alt="Node.js" width="45" height="45" />
-  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="icons/mongodb.png" alt="MongoDB" width="45" height="45" />
-  <a href="https://angular.io/" target="_blank" title="Angular"><img src="icons/angular.png" alt="Angular" width="45" height="45" />
-  <a href="https://firebase.google.com/" target="_blank" title="Firebase"><img src="icons/firebase.png" alt="Firebase" width="45" height="45" /></a>
-  <a href="https://www.php.net/" target="_blank" title="PHP"><img src="icons/php.png" alt="PHP" width="45" height="45" />
-  <a href="https://www.python.org/" target="_blank" title="Python"><img src="icons/python.png" alt="Python" width="45" height="45" />
-  <a href="https://git-scm.com/" target="_blank" title="Git"><img src="icons/git.png" alt="Git" width="45" height="45" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" title="VS Code"><img src="icons/vscode.png" alt="VS Code" width="45" height="45" /></a>
+  <a href="https://reactjs.org/" target="_blank" title="React"><img src="icons/react.png" alt="React" width="40" height="40" />
+  <a href="https://nodejs.org/en/" target="_blank" title="Node.js"><img src="icons/nodejs.png" alt="Node.js" width="40" height="40" />
+  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="icons/mongodb.png" alt="MongoDB" width="40" height="40" />
+  <a href="https://angular.io/" target="_blank" title="Angular"><img src="icons/angular.png" alt="Angular" width="40" height="40" />
+  <a href="https://firebase.google.com/" target="_blank" title="Firebase"><img src="icons/firebase.png" alt="Firebase" width="40" height="40" /></a>
+  <a href="https://www.php.net/" target="_blank" title="PHP"><img src="icons/php.png" alt="PHP" width="40" height="40" />
+  <a href="https://www.python.org/" target="_blank" title="Python"><img src="icons/python.png" alt="Python" width="40" height="40" />
+  <a href="https://git-scm.com/" target="_blank" title="Git"><img src="icons/git.png" alt="Git" width="40" height="40" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" title="VS Code"><img src="icons/vscode.png" alt="VS Code" width="40" height="40" /></a>
 
 </details>
 
