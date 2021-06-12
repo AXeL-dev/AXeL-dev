@@ -7,15 +7,23 @@ I'm a Full Stack Developer from Morocco 🇲🇦, enthusiastic about solving pro
 
   <br/>
 
-  <a href="https://reactjs.org/" target="_blank" title="React"><img src="icons/react.png" alt="React" width="40" height="40" />
-  <a href="https://nodejs.org/en/" target="_blank" title="Node.js"><img src="icons/nodejs.png" alt="Node.js" width="40" height="40" />
-  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="icons/mongodb.png" alt="MongoDB" width="40" height="40" />
-  <a href="https://angular.io/" target="_blank" title="Angular"><img src="icons/angular.png" alt="Angular" width="40" height="40" />
-  <a href="https://firebase.google.com/" target="_blank" title="Firebase"><img src="icons/firebase.png" alt="Firebase" width="40" height="40" /></a>
-  <a href="https://www.php.net/" target="_blank" title="PHP"><img src="icons/php.png" alt="PHP" width="40" height="40" />
-  <a href="https://www.python.org/" target="_blank" title="Python"><img src="icons/python.png" alt="Python" width="40" height="40" />
-  <a href="https://git-scm.com/" target="_blank" title="Git"><img src="icons/git.png" alt="Git" width="40" height="40" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" title="VS Code"><img src="icons/vscode.png" alt="VS Code" width="40" height="40" /></a>
+  <a href="https://reactjs.org/" target="_blank" title="React"><img src="icons/react.svg" alt="React" width="22" height="22" />
+  <a href="https://nodejs.org/en/" target="_blank" title="Node.js"><img src="icons/nodejs.svg" alt="Node.js" width="22" height="22" />
+  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="icons/mongodb.svg" alt="MongoDB" width="22" height="22" />
+  <a href="https://angular.io/" target="_blank" title="Angular"><img src="icons/angular.svg" alt="Angular" width="22" height="22" />
+  <a href="https://firebase.google.com/" target="_blank" title="Firebase"><img src="icons/firebase.svg" alt="Firebase" width="22" height="22" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" title="Typescript"><img src="icons/typescript.svg" alt="Typescript" width="22" height="22" />
+  <a href="https://rxjs.dev/" target="_blank" title="RxJS"><img src="icons/rxjs.svg" alt="RxJS" width="22" height="22" />
+  <a href="https://www.php.net/" target="_blank" title="PHP"><img src="icons/php.svg" alt="PHP" width="22" height="22" />
+  <a href="https://www.python.org/" target="_blank" title="Python"><img src="icons/python.svg" alt="Python" width="22" height="22" />
+  <a href="https://git-scm.com/" target="_blank" title="Git"><img src="icons/git.svg" alt="Git" width="22" height="22" /></a>
+  <a href="https://www.npmjs.com/" target="_blank" title="NPM"><img src="icons/npm.svg" alt="NPM" width="22" height="22" /></a>
+  <a href="https://yarnpkg.com/" target="_blank" title="Yarn"><img src="icons/yarn.svg" alt="Yarn" width="22" height="22" /></a>
+  <a href="https://gulpjs.com/" target="_blank" title="Gulp"><img src="icons/gulp.svg" alt="Gulp" width="22" height="22" /></a>
+  <a href="https://eslint.org/" target="_blank" title="Eslint"><img src="icons/eslint.svg" alt="Eslint" width="22" height="22" /></a>
+  <a href="https://jestjs.io/" target="_blank" title="Jest"><img src="icons/jest.svg" alt="Jest" width="22" height="22" /></a>
+  <a href="https://www.cypress.io/" target="_blank" title="Cypress"><img src="icons/cypress.svg" alt="Cypress" width="22" height="22" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" title="VS Code"><img src="icons/vscode.svg" alt="VS Code" width="22" height="22" /></a>
 
 </details>
 
