@@ -5,7 +5,7 @@ I'm a Full Stack Developer from Morocco 🇲🇦, enthusiastic about solving pro
 <details open>
   <summary><b>I'm currently working with</b> 👇</summary>
 
-  <br/>
+  <p></p>
 
   <a href="https://reactjs.org/" target="_blank" title="React"><img src="icons/react.svg" alt="React" width="32" height="32" />
   <a href="https://nodejs.org/en/" target="_blank" title="Node.js"><img src="icons/nodejs.svg" alt="Node.js" width="32" height="32" />
@@ -43,8 +43,7 @@ I'm a Full Stack Developer from Morocco 🇲🇦, enthusiastic about solving pro
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=axel-dev&layout=compact&hide_border=true" alt="Top Langs" />
   </a>
   
-  <br/>
-  <br/>
+  <p></p>
   
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=axel-dev)
 
@@ -52,12 +51,12 @@ I'm a Full Stack Developer from Morocco 🇲🇦, enthusiastic about solving pro
 </details>
 
 <details open>
-  <summary><b>Feel free to reach me on</b> 📨</summary>
+  <summary><b>Feel free to reach me on</b> 💬</summary>
   
-  <br/>
+  <p></p>
 
   📫 [contact.axel.dev@gmail.com](mailto:contact.axel.dev@gmail.com)
-
+  
   <a href="https://discord.com/" target="_blank" title="Discord"><img src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" alt="Discord" width="22" height="22" align="top" /></a> `AXeL#3320`
 
 </details>
