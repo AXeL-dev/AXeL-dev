@@ -33,7 +33,10 @@ I'm a Full Stack Developer from Morocco 🇲🇦, enthusiastic about solving pro
   <div align="center">
   
   <a href="https://github.com/AXeL-dev">
+    <!--
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=axel-dev&count_private=true&include_all_commits=true&show_icons=true&hide_border=true" alt="AXeL's github stats" />
+    -->
+    <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=axel-dev&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="AXeL's github stats" />
   </a>
   
   <a href="https://github.com/AXeL-dev">
@@ -48,6 +51,13 @@ I'm a Full Stack Developer from Morocco 🇲🇦, enthusiastic about solving pro
   </div>
 </details>
 
-📫 Feel free to reach me on [contact.axel.dev@gmail.com](mailto:contact.axel.dev@gmail.com).
+<details open>
+  <summary><b>Feel free to reach me on</b> 📨</summary>
+  
+  <br/>
 
-<a href="https://discord.com/" target="_blank" title="Discord"><img src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" alt="Discord" width="22" height="22" align="top" /></a> `AXeL#3320`
+  📫 [contact.axel.dev@gmail.com](mailto:contact.axel.dev@gmail.com)
+
+  <a href="https://discord.com/" target="_blank" title="Discord"><img src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" alt="Discord" width="22" height="22" align="top" /></a> `AXeL#3320`
+
+</details>
