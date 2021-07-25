@@ -51,12 +51,11 @@ I'm a Full Stack Developer from Morocco 🇲🇦, enthusiastic about solving pro
 </details>
 
 <details open>
-  <summary><b>Feel free to reach me on</b> 💬</summary>
+  <summary><b>Feel free to reach me at</b> 📫</summary>
   
   <p></p>
-
-  📫 [contact.axel.dev@gmail.com](mailto:contact.axel.dev@gmail.com)
   
-  <a href="https://discord.com/" target="_blank" title="Discord"><img src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" alt="Discord" width="22" height="22" align="top" /></a> `AXeL#3320`
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.axel.dev@gmail.com)
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://pastebin.com/raw/icjT8TzX)
 
 </details>
