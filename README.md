@@ -51,6 +51,14 @@ I'm a Full Stack Developer from Morocco 🇲🇦, enthusiastic about solving pro
 </details>
 
 <details open>
+  <summary><b>Blog posts</b> 📝</summary>
+  
+  <p></p>
+  
+  Read my [latest blog posts](https://axel-dev.github.io/portfolio/blog).
+</details>
+
+<details open>
   <summary><b>Feel free to reach me at</b> 📫</summary>
   
   <p></p>
