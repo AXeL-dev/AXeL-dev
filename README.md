@@ -45,7 +45,7 @@ I'm a Full Stack Developer from Morocco 🇲🇦, enthusiastic about solving pro
   
   <p></p>
   
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=axel-dev)
+  ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=axel-dev)
 
   </div>
 </details>
