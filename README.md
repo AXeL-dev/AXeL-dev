@@ -59,7 +59,7 @@ I'm a Full Stack Developer from Morocco 🇲🇦, enthusiastic about solving pro
 </details>
 
 <details open>
-  <summary><b>Feel free to reach me at</b> 📫</summary>
+  <summary><b>Feel free to reach me on</b> 📫</summary>
   
   <p></p>
   
