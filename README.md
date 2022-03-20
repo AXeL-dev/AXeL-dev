@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Full Stack Developer from Morocco 🇲🇦, enthusiastic about solving problems & writing clean code :sparkles: , with a constantly growing love for new technologies. Besides programming, I enjoy watching animes & playing games :video_game:.
+I'm a Full Stack Developer from Morocco 🇲🇦, enthusiastic about solving problems & writing clean code :sparkles: , with a constantly growing love for new technologies. Besides programming, I enjoy watching [animes](https://axel-dev.github.io/portfolio/blog/post/my-list-of-top-10-animes-that-worth-watching) & playing games :video_game:.
 
 <details open>
   <summary><b>I'm currently working with</b> 👇</summary>
