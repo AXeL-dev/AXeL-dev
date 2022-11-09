@@ -36,7 +36,7 @@ I'm a Full Stack Developer from Morocco 🇲🇦, enthusiastic about solving pro
     <!--
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=axel-dev&count_private=true&include_all_commits=true&show_icons=true&hide_border=true" alt="AXeL's github stats" />
     -->
-    <img align="center" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=axel-dev&show_icons=true&count_private=true&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="AXeL's github stats" />
+    <img align="center" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=axel-dev&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR" alt="AXeL's github stats" />
   </a>
   
   <a href="https://github.com/AXeL-dev">
