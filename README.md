@@ -40,12 +40,12 @@ I'm a Full Stack Developer from Morocco 🇲🇦, enthusiastic about solving pro
   </a>
   
   <a href="https://github.com/AXeL-dev">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=axel-dev&layout=compact&hide_border=true&langs_count=10" alt="Top Langs" />
+    <img align="center" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs?username=axel-dev&layout=compact&hide_border=true&langs_count=10" alt="Top Langs" />
   </a>
   
   <p></p>
   
-  ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=axel-dev)
+  ![visitors](https://vbr.wocr.tk/badge?page_id=axel-dev)
 
   </div>
 </details>
