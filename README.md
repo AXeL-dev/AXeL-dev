@@ -33,7 +33,7 @@ I'm a Full Stack Developer from Morocco 🇲🇦, enthusiastic about solving pro
   <div align="center">
   
   <a href="https://github.com/AXeL-dev">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=axel-dev&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR" alt="AXeL's github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=axel-dev&rank_icon=percentile&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&card_width=450" alt="AXeL's github stats" />
   </a>
   
   <a href="https://github.com/AXeL-dev">
