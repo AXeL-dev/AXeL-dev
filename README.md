@@ -41,8 +41,8 @@ I'm a Full Stack Developer from Morocco 🇲🇦, enthusiastic about solving pro
   </a>
   
   <p></p>
-  
-  ![visitors](https://vbr.wocr.tk/badge?page_id=axel-dev)
+
+  ![visitors](https://vbr.nathanchung.dev/badge?page_id=axel-dev&color=0f80c1&style=flat&logo=Github&hit=false)
 
   </div>
 </details>
